@@ -1,5 +1,5 @@
 ### Introduction
-devmch is a personal organization created by [@mch-sg](https://github.com/mch-sg), for selection and creation of official projects, as well as further development of concepts.
+Devmch is a personal organization created by [@mch-sg](https://github.com/mch-sg) for selection and creation of official projects, as well as further development of concepts.
 
 
 
